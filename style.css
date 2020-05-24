@@ -74,3 +74,8 @@ a:hover {
 .paddingforword{
     padding: 0 10%;
 }
+.whiteword {
+    font-size: 20px;
+    font-family: 'Patrick Hand', cursive;
+    color: white;
+}
